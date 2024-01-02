@@ -1,7 +1,10 @@
 body {
-    margin: 0;
-    background: black;
+    margin: 0 auto;
+    width: 90%;
+    background-image: url('lain.jpg');
     text-align: center;
-    color: white;
-    background-color: blue;
+}
+
+.btn {
+    border-radius: 16px;
 }
