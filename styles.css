@@ -5,16 +5,13 @@ body {
     margin-right: 150%;
     margin-left: 150%;
     text-align: center;
-}
-
-.btn {
-    border-radius: 16px;
-}
-
-.bg {
     background-image: url('lain.jpg');
     height: 100%; 
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.btn {
+    border-radius: 16px;
 }
