@@ -7,6 +7,13 @@ body {
     background-size: 100% 100%;
 }
 
+.box {
+    text-align: center;
+    margin: 20%;
+    border: black 2px;
+    padding: grey 20%;
+}
+
 .loginButton {
     border-radius: 30px;
 }
