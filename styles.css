@@ -6,6 +6,8 @@ body {
     margin-left: 150%;
     text-align: center;
     background-image: url('lain.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .btn {
