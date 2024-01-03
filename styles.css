@@ -1,7 +1,7 @@
 body {
     background-image: url('lain.jpg');
     background-size: cover;
-    background-position: center center;
+    background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
@@ -11,12 +11,12 @@ body {
     text-align: center;
     margin-top: 10%;
     margin-bottom: 10%;
-    margin-right: 10%;
-    margin-left: 10%;
+    margin-right: 35%;
+    margin-left: 35%;
     background: grey;
-    padding: 10%;
-    width: 60%;
-    height: 60%;
-    border-radius: 12px;
+    padding: 5%;
+    width: 30%;
+    height: 80%;
+    border-radius: 30px;
 }
 
