@@ -10,8 +10,8 @@ body {
 .box {
     text-align: center;
     margin: 20%;
-    border: black 2px;
-    padding: grey 20%;
+    background: grey;
+    padding: 20%;
     width: 50%;
     height: 50%
 }
