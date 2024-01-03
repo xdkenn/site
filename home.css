@@ -1,5 +1,5 @@
 #myVideo {
-    position: fixed;
+    position: static;
     right: 0;
     bottom: 0;
     min-width: 100%;
