@@ -1,7 +1,7 @@
 body {
     background-image: url('lain.jpg');
     background-size: cover;
-    background-position: center;
+    background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
@@ -9,14 +9,11 @@ body {
 
 .box {
     text-align: center;
-    margin-top: 10%;
-    margin-bottom: 10%;
-    margin-right: 35%;
-    margin-left: 35%;
+    margin: auto;
     background: grey;
     padding: 10%;
-    width: 30%;
-    height: 80%;
+    width: 20%;
+    height: 40%;
     border-radius: 30px;
 }
 
