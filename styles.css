@@ -11,7 +11,7 @@ body {
     position: fixed;
     text-align: center;
     margin: auto;
-    margin-top: 20%;
+    margin: 0;
     background: grey;
     padding: 10%;
     width: 20%;
