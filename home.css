@@ -1,5 +1,6 @@
 #myVideo {
     position: fixed;
+    margin: auto;
     min-width: 100%;
     min-height: 100%;
   }
