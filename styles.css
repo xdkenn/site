@@ -8,8 +8,10 @@ body {
 }
 
 .box {
+    position: fixed;
     text-align: center;
     margin: auto;
+    margin-top: 20%;
     background: grey;
     padding: 10%;
     width: 20%;
