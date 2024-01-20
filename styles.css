@@ -3,8 +3,8 @@
   background-color: black;
   color: aqua;
   font-size: 16px;
-  width: 100%;
-  height: 100%;
+  width: 80%;
+  height: 80%;
 }
 
 table {
@@ -17,6 +17,7 @@ table {
   top: 0;
   position:fixed;
   text-align: center;
+  padding: 20%;
 }
 
 #myVideo {
