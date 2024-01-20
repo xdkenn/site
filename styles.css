@@ -19,6 +19,7 @@ table {
   position:fixed;
   text-align: center;
   padding: 20%;
+  opacity: 0.5;
 }
 
 #myVideo {
